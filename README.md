@@ -2,7 +2,7 @@
 ### Paige Breyfogle, J.A. Gorman, Andrew Stepanek
 
 ## Purpose
-Merge several music files and compare
+Merge several music files and make a comprehensive list of music by artist, genre, and scores based on different criteria
 
 ## Requirements
 | Python Modules | Usage |
@@ -19,20 +19,16 @@ Merge several music files and compare
 
 ### [DATASETS](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
 
-#### *extract*
+#### *extract* -Paige Breyfogle
 
 1. download csv (manual step)
 2. load csv
 
-#### *transform*
+#### *transform* -Andrew Stepanek
 
 1. 
 
-#### *load*
+#### *load* -J.A. Gorman
 
-1.
-
-## Postgresql Schema
-
-
-
+1. Loaded transformed data into Postgresql
+2. Used WITH to check for errors on loading
