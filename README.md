@@ -17,7 +17,7 @@ Merge several music files and compare
 
 ###  [CSV FILES](https://github.com/jagorman/music_etl/tree/main/Resources)
 
-### [kagle csv](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
+### [DATASETS](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
 
 #### *extract*
 
