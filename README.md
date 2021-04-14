@@ -26,7 +26,8 @@ Merge several music files and make a comprehensive list of music by artist, genr
 
 #### *transform* -Andrew Stepanek
 
-1. 
+1. isolated appropriate data
+2. standardized relevant data information using pandas loop
 
 #### *load* -J.A. Gorman
 
